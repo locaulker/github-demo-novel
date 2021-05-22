@@ -1,2 +1,7 @@
 Chapter 1
-- We meet Nick, Tom, and Jordan
+- We meet Nick, Tom, and jordan
+- Nullam ultrices a odio ac viverra. 
+- Class aptent taciti sociosqu ad litora torquent per conubia nostra,
+- per inceptos himenaeos. Nunc id elit tristique eros laoreet efficitur.
+- Pellentesque eu cursus neque. Phasellus porttitor enim porttitor erat laoreet,
+- ac condimentum arcu blandit. 
